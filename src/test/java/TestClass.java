@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class TestClass {
     MainApp mainApp = new MainApp();
     @Test
-    public void testCalculateAppriasal() {
+    public void testMainClass() {
         assertEquals(mainApp.writeHello("MPS"), "Hi MPS");
         mainApp.writeHello("MPS");
     }
