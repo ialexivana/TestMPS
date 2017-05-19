@@ -1,6 +1,7 @@
 package com.main;
 
 import com.domain.Camera;
+import com.domain.Monitoring;
 import com.domain.Semafor;
 import com.interfaces.ICamera;
 import com.interfaces.ISemafor;
@@ -11,6 +12,7 @@ import com.interfaces.ISemafor;
 public class MainApp {
     Camera camera;
     Semafor semafor;
+    Monitoring monitoring;
 
     ICamera icamera;
     ISemafor isemafor;
