@@ -1,3 +1,6 @@
+package com.main;
+
+import com.main.MainApp;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
