@@ -13,7 +13,10 @@
             <artifactId>junit-jupiter-api</artifactId>
             <version>RELEASE</version>
         </dependency>
+        <dependency>
+        </dependency>
     </dependencies>
+
 
     <!-- https://mvnrepository.com/artifact/junit/junit -->
     <!--<dependencies>-->
