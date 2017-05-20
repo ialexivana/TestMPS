@@ -8,6 +8,10 @@
     <artifactId>test.mps</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+
+    </dependencies>
+
     <!-- https://mvnrepository.com/artifact/junit/junit -->
     <!--<dependencies>-->
         <!--<dependency>-->
