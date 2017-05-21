@@ -5,3 +5,4 @@ Specializare: INGINERIE SOFTWARE
 Studenti:
 * Ivana Ionel-Alexandru
 * Munteanu Iulian
+* Apopei Ieremia Gheorghe
